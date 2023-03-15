@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS carlos_db;
+CREATE DATABASE carlos_db;
